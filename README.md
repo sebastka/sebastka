@@ -5,7 +5,7 @@
 - 📕 Studying CS at [UiO](https://www.uio.no/studier/program/informatikk-programmering/)
 - 🔑 [PGP](https://gist.githubusercontent.com/sebastka/e70c720cbae9898070cfa51ff3730304/raw/b8d51501a8c41d2db689f654b4537c063392a6a8/PGPkey)
 - 🐧 Arch btw
-- 🦜 PHP, C++, Python
+- 🦜 C++, Python, PHP
 - 📖 Learning Rust
 
 <!--
