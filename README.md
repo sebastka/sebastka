@@ -3,7 +3,8 @@
 - 🇫🇷 🇳🇴
 - 👨 26 yo
 - 📕 Studying CS at [UiO](https://www.uio.no/studier/program/informatikk-programmering/)
-- 🔑 [PGP](http://karlsen.fr/PGP.asc)
+- 🔑 [PGP](https://www.karlsen.fr/PGP.asc)
+- 🔗 [LinkedIn](https://linkedin.com/in/sebastka)
 - 🐧 Arch btw
 - 🦜 C++, Python, PHP
 - 📖 Learning Rust
