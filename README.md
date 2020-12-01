@@ -2,7 +2,7 @@
 
 <details>
 	<summary>PGP Key</summary>
-	```
+	```sh
 	-----BEGIN PGP PUBLIC KEY BLOCK-----
 	mQGNBF+jszMBDAC2ytkQ+pdpcX75mM2LtI7hEwoFbkGsbrjgPsG6+52aOXy0RTqR
 	hhuYPq6LhGyPjxuCpvNiKJQdMRAKzYBHDw1DrLJG6ynydPy2j6SUQXe2IeQr7wS1
