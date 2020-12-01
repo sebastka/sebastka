@@ -2,6 +2,7 @@
 
 <details>
 	<summary>PGP Key</summary>
+	```
 	-----BEGIN PGP PUBLIC KEY BLOCK-----
 	mQGNBF+jszMBDAC2ytkQ+pdpcX75mM2LtI7hEwoFbkGsbrjgPsG6+52aOXy0RTqR
 	hhuYPq6LhGyPjxuCpvNiKJQdMRAKzYBHDw1DrLJG6ynydPy2j6SUQXe2IeQr7wS1
@@ -42,6 +43,7 @@
 	26O3tn3t2qokU+cJ/1jJq/kvpSiiX1LxnSWmXXHd
 	=XjYU
 	-----END PGP PUBLIC KEY BLOCK-----
+	```
 </details>
 
 <!--
