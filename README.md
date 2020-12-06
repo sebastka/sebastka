@@ -5,8 +5,8 @@
 - 📕 Studying CS at [UiO](https://www.uio.no/studier/program/informatikk-programmering/)
 - 🔑 PGP: [Priv](https://www.karlsen.fr/karlsen.asc) | [UiO](https://www.karlsen.fr/uio.asc)
 - 🔗 [LinkedIn](https://linkedin.com/in/sebastka)
-- 🐧 Arch btw
-- 🦜 C++, Python, PHP
+- 🐧 Archlinux on XPS 13 9343 / XPS 15 7590
+- 🦜 C++, Python, PHP, HTML
 - 📖 Learning Rust
 
 <!--
