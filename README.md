@@ -6,8 +6,7 @@
 - 🔑 PGP: [Priv](https://www.karlsen.fr/karlsen.asc) | [UiO](https://www.karlsen.fr/uio.asc)
 - 🔗 [LinkedIn](https://linkedin.com/in/sebastka)
 - 🐧 Archlinux on XPS 13 9343 / XPS 15 7590
-- 🦜 C++, Python, PHP, HTML
-- 📖 Learning Rust
+- 🦜 C, Python, PHP, HTML
 
 <!--
 **sebastka/sebastka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
