@@ -3,7 +3,7 @@
 - 🇫🇷 🇳🇴
 - 👨 26 yo
 - 📕 Studying CS at [UiO](https://www.uio.no/studier/program/informatikk-programmering/)
-- 🔑 PGP: [Priv](https://www.karlsen.fr/karlsen.asc) | [UiO](https://www.karlsen.fr/uio.asc)
+- 🔑 PGP: [Priv](https://www.karlsen.fr/karlsen.asc) | [Work](https://www.karlsen.fr/fjordmail.asc) | [UiO](https://www.karlsen.fr/uio.asc)
 - 🔗 [LinkedIn](https://linkedin.com/in/sebastka)
 - 🐧 Archlinux on XPS 13 9343 / XPS 15 7590
 - 🦜 C, Bash, Python, PHP, HTML
