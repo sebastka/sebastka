@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://training.linuxfoundation.org/certification/verify/"><img title="LFCS Badge ID: LF-31wpy5fcie" alt="LFCS Badge ID: LF-31wpy5fcie" width="12%" src="https://user-images.githubusercontent.com/35309144/123339107-495c1600-d54a-11eb-9c58-ce8b8e13af70.png"/></a>
+<a href="https://training.linuxfoundation.org/certification/verify/" target="_blank"><img title="LFCS Badge ID: LF-31wpy5fcie" alt="LFCS Badge ID: LF-31wpy5fcie" width="12%" src="https://user-images.githubusercontent.com/35309144/123339107-495c1600-d54a-11eb-9c58-ce8b8e13af70.png"/></a>
