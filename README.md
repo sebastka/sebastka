@@ -2,15 +2,16 @@
 
 - 🇫🇷 🇳🇴
 - 👨 26 yo
+- 🛠️ Support / Sysadmin @ Fjordmail Technologies AS
 - 📕 Studying CS at [UiO](https://www.uio.no/studier/program/informatikk-programmering/)
 - 🔑 PGP: [Priv](https://www.karlsen.fr/karlsen.asc) | [Work](https://www.karlsen.fr/fjordmail.asc) | [UiO](https://www.karlsen.fr/uio.asc)
 - 🔗 [LinkedIn](https://linkedin.com/in/sebastka)
 - 🐧 Archlinux on XPS 13 9343 / XPS 15 7590
 - 🦜 C, Bash, Python, PHP, HTML
 - Certs:
-    - [LFSC](https://training.linuxfoundation.org/certification/verify/) #LF-31wpy5fcie
+    - [LFSC](https://training.linuxfoundation.org/certification/verify/): Karlsen #LF-31wpy5fcie
 
-<br><br>
+<br>
 
 <a href="https://training.linuxfoundation.org/certification/verify/" target="_blank"><img title="LFCS Cert ID: LF-31wpy5fcie" alt="LFCS Badge ID: LF-31wpy5fcie" width="12%" src="https://user-images.githubusercontent.com/35309144/123339107-495c1600-d54a-11eb-9c58-ce8b8e13af70.png"/></a>
 
