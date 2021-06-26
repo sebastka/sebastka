@@ -13,8 +13,7 @@
 
 <br>
 
-<a href="https://training.linuxfoundation.org/certification/verify/" target="_blank"><img title="LFCS Cert ID: LF-31wpy5fcie" alt="LFCS Badge ID: LF-31wpy5fcie" width="12%" src="https://user-images.githubusercontent.com/35309144/123339107-495c1600-d54a-11eb-9c58-ce8b8e13af70.png"/></a>
-
+<a href="https://training.linuxfoundation.org/certification/verify/" target="_blank"><img title="LFCS Cert ID: LF-31wpy5fcie" alt="LFCS Badge ID: LF-31wpy5fcie" width="12%" src="https://user-images.githubusercontent.com/35309144/123517842-90a9ea00-d6a3-11eb-908a-89fc82703731.png"/></a>
 
 <!--
 **sebastka/sebastka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
