@@ -4,7 +4,7 @@
 - 👨 26 yo
 - 🛠️ Support / Sysadmin @ Fjordmail Technologies AS
 - 📕 Studying CS at [UiO](https://www.uio.no/studier/program/informatikk-programmering/)
-- 🔑 PGP: [Priv](https://www.karlsen.fr/karlsen.asc) | [Work](https://www.karlsen.fr/fjordmail.asc) | [UiO](https://www.karlsen.fr/uio.asc)
+- 🔑 PGP: [Priv](https://www.karlsen.fr/sebastian@karlsen.fr.asc) | [Work](https://www.karlsen.fr/sebastian@fjordmail.no.asc) | [UiO](https://www.karlsen.fr/sebaskar@ifi.uio.no.asc)
 - 🔗 [LinkedIn](https://linkedin.com/in/sebastka)
 - 🐧 Archlinux on XPS 13 9343 / XPS 15 7590
 - 🦜 C, Bash, Python, PHP, HTML
