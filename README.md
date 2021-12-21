@@ -6,7 +6,7 @@
 - 📕 Studying CS at [UiO](https://www.uio.no/studier/program/informatikk-programmering/)
 - 🔑 [PGP](https://www.karlsen.fr/public.asc)
 - 🔗 [LinkedIn](https://linkedin.com/in/sebastka)
-- 🐧 Archlinux on [hermes](a "Raspberry Pi 4 8 GB"), [atlas](a "5950X / 6900XT"), [recurrent-xps15](a "Dell XPS 15 7590"), [xps13](a "Dell XPS 13 9343")
+- 🐧 Archlinux on [hermes](# "Raspberry Pi 4 8 GB"), [atlas](# "5950X / 6900XT"), [recurrent-xps15](# "Dell XPS 15 7590"), [xps13](# "Dell XPS 13 9343")
 - 🦜 C, Bash, Python, PHP, HTML
 
 <br>
