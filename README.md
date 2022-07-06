@@ -3,11 +3,11 @@
 - 🇫🇷 🇳🇴
 - 👨 27 yo
 - 🛠️ Support / Sysadmin @ Fjordmail Technologies AS
-- 📕 Studying CS at [UiO](https://www.uio.no/studier/program/informatikk-programmering/)
 - 🔑 [PGP](https://www.karlsen.fr/public.asc)
 - 🔗 [LinkedIn](https://linkedin.com/in/sebastka)
 - <a href="#"><img src="archlinux-icon-crystal-16.svg" title="Archlinux" alt="Archlinux"></a> on [hermes](# "Raspberry Pi 4 8 GB"), [atlas](# "5950X / 6900XT"), [recurrent-xps15](# "Dell XPS 15 7590"), [xps13](# "Dell XPS 13 9343")
-- 🦜 C, Bash, Python, PHP, HTML
+- 🦜 Shell/Bash, PHP, C, Python, HTML/CSS
+<!-- - 📕 Studying CS at [UiO](https://www.uio.no/studier/program/informatikk-programmering/) -->
 
 <br>
 
