@@ -6,11 +6,10 @@
 - 📕 Studying IT at [NTNU](https://www.ntnu.no/studier/bdigsec)
 - 🔑 [PGP](https://www.karlsen.fr/public.asc)
 - 🔗 [LinkedIn](https://linkedin.com/in/sebastka)
-- <a href="#" title="Linux stack">🐧</a>
-  - <a href="#"><img src="fedora.svg" title="Fedora" alt="Fedora" width="16"></a> on [zeus](# "5950X / 6900XT"), [fjordmail-xps15](# "Dell XPS 15 7590")
-  - <a href="#"><img src="debian.svg" title="Debian" alt="Debian" width="16"></a> on [helios](# "Protectli FW6D") and VMs
-  - <a href="#"><img src="archlinux-icon-crystal-16.svg" title="Archlinux" alt="Archlinux"></a> on [hermes](# "Raspberry Pi 4 8 GB")
-  - <a href="#"><img src="pve.png" title="Proxmox Virtual Environment " alt="Proxmox Virtual Environment" width="16"></a> on [atlas](# "Dell Poweredge T420")
+- <a href="#"><img src="terminal.png" title="HomeLab" alt="HomeLab" width="16"></a> HomeLab:
+  - <a href="#"><img src="debian.svg" title="Debian" alt="Debian" width="16"></a> on [router](# "Protectli FW6D") and VMs
+  - <a href="#"><img src="pve.png" title="Proxmox Virtual Environment" alt="Proxmox Virtual Environment" width="16"></a> on [hypervisor](# "Dell Poweredge T420")
+
 - 🦜 Shell/Bash, PHP, C, Python, HTML/CSS
 
 <br>
