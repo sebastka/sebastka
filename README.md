@@ -1,7 +1,7 @@
 ### About
 
 - 🇫🇷 🇳🇴
-- 🛠️ Linux System Admin / Operations @ @Fjordmail
+- 🛠️ Linux System Admin / Operations @ [Inbox.com AS](/Fjordmail)
 - 🔑 [PGP](https://www.karlsen.fr/public.asc)
 - 🔗 [LinkedIn](https://linkedin.com/in/sebastka)
 
